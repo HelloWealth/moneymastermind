@@ -8,7 +8,7 @@ export const Footer = () => {
             life insurance planning, and wealth-building strategies.
           </p>
           <p className="text-sm text-muted-foreground">
-            © 2024 Financial Coaching. All rights reserved.
+            © 2024 HelloWealth Coaching. All rights reserved.
           </p>
         </div>
       </div>
